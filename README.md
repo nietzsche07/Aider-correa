@@ -1,1 +1,3 @@
-Link tablero de trello: https://trello.com/invite/b/67a410704b3c650e9fc9a221/ATTI2b0c5c3529b4a361da6b74d32d1494d36F67CDF5/tablerodesafio
+Link video explicacion del codigo: https://youtu.be/TeArGJCO0eE
+
+Link tablero de trello: https://trello.com/b/gbJNIlio/tablerodesafio
