@@ -1,0 +1,3 @@
+"## Forma para crear nueva rama local serai = git branch new rama  -> para crear un commit en esa rama seria = git commit -m commit nueva rama  -> y para subir el commit seria con git push -u"
+
+
